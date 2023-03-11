@@ -18,12 +18,11 @@ from then you will be given 15 seconds to select coordinates and, click the "Fir
 ![wireframe](https://i.imgur.com/eedAvoE.png)
 
 #### MVP Goals
-- I want to display friendly ships coordinates
-- I want to show the locations where the ship has taken damage 
-- I want to display the current health of all ships individually
-- based upon the amount of health the ship has, the color of the ship changes along with it.
-- I want to have the game randomly select who will go first
-- have the computer randomly place the ships for the players if they don't place them.
+
+- show the locations where the ship has taken damage 
+- places all the ships on the board when "start game" is clicked
+- display when the game is over when all ships have been sunk
+- distinguish hits or misses by editing the dom
 
 ##### Stretch Goals
 - add different weapons to attack with.
